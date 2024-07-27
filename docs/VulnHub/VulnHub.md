@@ -5,6 +5,5 @@ nav_order: 4
 has_children: true
 permalink: /docs/vulnhub
 ---
-# Listado de maquinas de la plataforma VulnHub
-
+# VULNHUB
 Resoluciones de maquinas de VulnHub
