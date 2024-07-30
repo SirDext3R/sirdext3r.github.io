@@ -11,4 +11,4 @@ permalink: /
 
 Soy Alessandro, entusiasta del pentesting, hacking y de temas relacionados a este mundo.
 
-Este blog lo he creado apra subir resoluciones que hago de las maquinas de distintas plataformas y proximamente algunas cosas que voy aprendiendo sobre la marcha.
+Este blog lo he creado para subir resoluciones que hago de las maquinas de distintas plataformas y proximamente algunas cosas que voy aprendiendo sobre la marcha.
